@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王凤翔</title>
+    <link>https://yingzing.github.io/</link>
+    <description>Recent content on 王凤翔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://yingzing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://yingzing.github.io/</link>
+      <pubDate>Fri, 07 Aug 2020 05:47:29 -0700</pubDate>
+      
+      <guid>https://yingzing.github.io/</guid>
+      <description>欢迎您的到来，江湖夜雨十年灯，我们一起在这里侃侃烟酒僧的生活！</description>
+    </item>
+    
+  </channel>
+</rss>
